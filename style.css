@@ -1,0 +1,44 @@
+body {
+    font-family: Arial;
+    background-color: #f2f2f2; /* Light gray */
+    margin: 0;
+    padding: 20px;
+}
+
+/* Main heading */
+h1 {
+    text-align: center;
+    color: #e91e63; /* Pink */
+}
+
+/* Subheadings */
+h2 {
+    color: #e91e63; /* Pink */
+    border-bottom: 2px solid #e91e63;
+    padding-bottom: 5px;
+}
+
+/* Sections */
+section {
+    background: white;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 12px;
+    box-shadow: 0 0 8px rgba(0,0,0,0.1);
+}
+
+/* Text */
+p {
+    color: #333;
+    line-height: 1.6;
+}
+
+/* List */
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 8px;
+}
